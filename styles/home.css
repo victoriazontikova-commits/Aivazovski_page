@@ -1,5 +1,6 @@
 .home {
     text-align: center;
+    padding: 0 0 70px 0;
 }
 
 .home-title {
@@ -25,12 +26,10 @@
     .home {
     text-align: left;
     }
-
     .home-title {
     min-width: 250px;
     font-size: 32px;
     }
-
     .home-description {
         font-size: 14px;
     }
